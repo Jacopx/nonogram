@@ -1,10 +1,5 @@
 //
-//  main.c
-//  eser10_1
-//
-//  Created by Jacopo Nasi on 08/12/15.
-//  Copyright © 2015 Jacopo Nasi. All rights reserved.
-//
+//  main.c - Nonogram Solver by Jacopo Nasi
 
 #include <stdio.h>
 #include "griddles.h"

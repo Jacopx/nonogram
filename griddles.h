@@ -1,10 +1,5 @@
 //
-//  griddles.h
-//  eser10_1
-//
-//  Created by Jacopo Nasi on 08/12/15.
-//  Copyright © 2015 Jacopo Nasi. All rights reserved.
-//
+//  griddles.h - Nonogram Solver by Jacopo Nasi
 
 #ifndef griddles_h
 #define griddles_h

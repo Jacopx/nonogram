@@ -1,10 +1,5 @@
 //
-//  griddles.c
-//  eser10_1
-//
-//  Created by Jacopo Nasi on 08/12/15.
-//  Copyright © 2015 Jacopo Nasi. All rights reserved.
-//
+//  griddles.c - Nonogram Solver by Jacopo Nasi
 
 #include "griddles.h"
 
@@ -224,7 +219,3 @@ int powerset(int pos, int *val, int *sol, int k, int start, int count, rules *al
     count = powerset(pos, val, sol, k, k, count, all);
     return count;
 }
-
-
-
-
